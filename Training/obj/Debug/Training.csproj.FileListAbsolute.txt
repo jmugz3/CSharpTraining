@@ -1,0 +1,6 @@
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\bin\Debug\Training.exe.config
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\bin\Debug\Training.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\bin\Debug\Training.pdb
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\obj\Debug\Training.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\Training\obj\Debug\Training.pdb
