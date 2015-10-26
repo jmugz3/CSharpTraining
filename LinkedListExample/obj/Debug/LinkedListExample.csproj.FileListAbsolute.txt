@@ -1,0 +1,6 @@
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\bin\Debug\LinkedListExample.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\bin\Debug\LinkedListExample.pdb
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\obj\Debug\LinkedListExample.csprojResolveAssemblyReference.cache
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\obj\Debug\LinkedListExample.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\LinkedListExample\obj\Debug\LinkedListExample.pdb
