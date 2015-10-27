@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Traini
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListExample", "LinkedListExample\LinkedListExample.csproj", "{32C7312F-80B7-4C35-AEB6-04CC813715C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mongoApp", "mongoApp\mongoApp.csproj", "{8B115C92-A918-48B1-B28E-8D54EDA011C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32C7312F-80B7-4C35-AEB6-04CC813715C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32C7312F-80B7-4C35-AEB6-04CC813715C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32C7312F-80B7-4C35-AEB6-04CC813715C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B115C92-A918-48B1-B28E-8D54EDA011C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B115C92-A918-48B1-B28E-8D54EDA011C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B115C92-A918-48B1-B28E-8D54EDA011C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B115C92-A918-48B1-B28E-8D54EDA011C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

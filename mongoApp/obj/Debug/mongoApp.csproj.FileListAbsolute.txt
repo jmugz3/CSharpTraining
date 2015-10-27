@@ -1,0 +1,11 @@
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\mongoApp.exe.config
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\mongoApp.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\mongoApp.pdb
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\MongoDB.Bson.dll
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\MongoDB.Driver.dll
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\MongoDB.Bson.xml
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\bin\Debug\MongoDB.Driver.xml
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\obj\Debug\mongoApp.csprojResolveAssemblyReference.cache
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\obj\Debug\mongoApp.exe
+C:\Users\JMugaburu\Desktop\Solutions\Training\Training\mongoApp\obj\Debug\mongoApp.pdb
