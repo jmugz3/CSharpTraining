@@ -2,8 +2,21 @@
 
 ###Projects
 
-ChessBoard
+#### Linked List
 
-Students
+- Creates a Linked List
+- Creates and adds node
 
-Calculator
+
+#### Training
+State: on-going projects. None of his are finished. 
+
+- ChessBoard
+- Student 
+
+#### mongoApp
+
+- Connects to mongodb using .NET
+- Creates Bson Documents
+- Inserts Documents
+- Iterates through documents
